@@ -1,7 +1,7 @@
 {
   "name": "好大儿饭饭盲盒 · 今天吃什么",
   "short_name": "好大儿饭饭盲盒",
-  "description": "好大儿饭饭盲盒：收录玉林日常常见的荤菜、粉面和快餐，按预算口味随机决定今天吃什么。",
+  "description": "好大儿饭饭盲盒：玉林日常荤菜加量版，自动排除鱼类、动物内脏和混合杂碎菜。",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fff9ee",
